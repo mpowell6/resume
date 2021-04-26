@@ -1,0 +1,37 @@
+{
+    "name": "Projects",
+    "SortOrder": 0,
+    "id": null,
+    "Projects": [
+        {
+            "websiteLink": "https://60674914641e78d5cfcd099c--nifty-morse-f348ba.netlify.app/",
+            "websiteTitle": "Bizzy-B Plumbing & Home Improvement",
+            "websiteImgSrc": "/resources/images/bizzyBeeLogo.jpg",
+            "websiteAlt": "Bizzy-B Logo",
+            "websiteDescription": "This project was a redesign concept for a local plumbing and home improvement business from an older wordpress site to give it a bit more of an updated and modern feel.",
+            "websiteSourceCode": "Source Code: ",
+            "websiteSourceLink": "https://github.com/mpowell6/bizzyb",
+            "websiteSourceTitle": "mpowell6 - Bizzyb"
+        },
+        {
+            "websiteLink": "https://607a54fa7ae5740007a03268--nifty-morse-f348ba.netlify.app/",
+            "websiteTitle": "Regal Movie Site Mock-Down",
+            "websiteImgSrc": "/resources/images/regalLogo.jpg",
+            "websiteAlt": "Regal Logo",
+            "websiteDescription": "This project was a mock-down concept that dynamically loads data off of a given JSON and responively reacts to screen resolution changes.",
+            "websiteSourceCode": "Source Code: ",
+            "websiteSourceLink": "https://github.com/mpowell6/regalMoviesMockup",
+            "websiteSourceTitle": "mpowell6 - regalMoviesMockup"
+        },
+        {
+            "websiteLink": "https://www.seraphsdev.com/",
+            "websiteTitle": "Resume",
+            "websiteImgSrc": "/resources/images/reactLogo.jpg",
+            "websiteAlt": "React Logo",
+            "websiteDescription": "This project is the source code to this personal resume site.",
+            "websiteSourceCode": "Source Code: ",
+            "websiteSourceLink": "https://github.com/mpowell6/resume",
+            "websiteSourceTitle": "mpowell6 - resume"
+        }
+    ]
+}

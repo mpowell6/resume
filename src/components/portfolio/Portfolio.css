@@ -1,0 +1,56 @@
+.portfolio {
+    color: white;
+    height: 100%;
+}
+
+.projectCard.card {
+    height: 80%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto;
+    position: relative;
+    top: 25%;
+    background-color: #2f4050 !important;
+    border-radius: 1.5%;
+}
+
+.projectLogo {
+    display: flex;
+    justify-content: center;
+}
+
+.projectLogo img {
+    height: 150px;
+    width: 150px;
+}
+
+.projectInfo {
+    margin: auto;
+    width: 50%;
+}
+
+.linkTitle  {
+    display: inline;
+    font-size: 1.75rem;
+    color: white;
+}
+
+.siteInfo {
+    display: flex;
+    width: 100%;
+    padding: .75rem;
+}
+
+@media screen and (min-width: 375px) {
+    .projectCard {
+        width: 85%;
+    }
+
+    .linkTitle a {
+        font-size: 1.5rem;
+        color: white;
+        text-align: center;
+    }
+}
