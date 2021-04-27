@@ -3,7 +3,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./components/home/Home";
 import Resume from "./components/resume/Resume";
-import Navigation from "./components/navigation/Navigation";
+import Navigation from "./components/nav/Navigation";
 import Portfolio from "./components/portfolio/Portfolio";
 
 function App() {
@@ -22,4 +22,4 @@ function App() {
   );
 }
 
-export default App;s
+export default App;
